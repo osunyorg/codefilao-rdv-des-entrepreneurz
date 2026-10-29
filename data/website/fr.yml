@@ -1,4 +1,8 @@
 default:
+  image:
+    id: 87e7c013-9530-40ba-8039-178f45399c42
+  shared_image:
+    id: 164324eb-079d-4558-bb7f-4d7b616594d8
 contents_reading_time:
   seconds: 0
   text: >-
